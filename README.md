@@ -1,6 +1,6 @@
 # LinkedIn Alumni Scraper
 
-A Python tool that collects LinkedIn profiles of Haliç University alumni and extracts their current workplace information.
+A Python tool that collects LinkedIn profiles of University alumni and extracts their current workplace information.
 
 Built with [Scrapling](https://github.com/D4Vinci/Scrapling) — a powerful stealth web scraping library.
 
